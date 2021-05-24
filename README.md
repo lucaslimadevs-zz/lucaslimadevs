@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucaslimadevs
-- 👀 I’m interested in ASP .NET core
-- 🌱 I’m currently learning ASP .NET core
-- 💞️ I’m looking to collaborate on ASP .NET core projects
+- 👀 I’m interested in .NET core
+- 🌱 I’m currently learning .NET core
+- 💞️ I’m looking to collaborate on .NET core projects
 - 📫 How to reach me lucaslima.devs@gmail.com
 
 <!---
